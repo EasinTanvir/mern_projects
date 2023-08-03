@@ -7,6 +7,7 @@ Step-2 npm install
 step-3 create a .env file inside the FrontEnd folder and cope this url
 inside the parentheses ( VITE_SERVER_URL = http://localhost:5000 )
 step - 4 npm run dev
+Note : before running the react application set up backend and start the nodejs application first
 
 \*Step for the BackEnd Folder
 step-1 open a new terminal
